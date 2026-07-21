@@ -35,15 +35,6 @@ Symbiosis Skill Hackathon 2026 🏆
 React • Node.js • Express • MongoDB • JavaScript • Python • C++
 GSAP • Framer Motion • REST APIs • JWT • Git
 
-## Certifications
-- 📘 Introduction to Machine Learning — NPTEL, IIT Madras
-- 🐍 The Joy of Computing using Python — NPTEL, IIT Ropar
-
-## Beyond Code
-- 🌍 OGTa Member — AIESEC (cross-cultural collaboration)
-- 🎤 Anchor — State level cultural event Anugoong 2023
-- ⚙️ Coordinator — Hackathon 3.0, SGSITS Indore
-
 ## Contact
 📧 riyaahirwar200@gmail.com
 💼 LinkedIn - https://linkedin.com/in/riya-ahirwar
