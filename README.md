@@ -1,5 +1,5 @@
 Hi, I'm Riya Ahirwar! 
-I'm a 3nd year IT student at SGSITS, Indore.
+I'm a 3rd year IT student at SGSITS, Indore.
 I enjoy building full stack web apps — from
 designing clean UIs to writing backend logic.
 Currently exploring AI tooling and open source.
